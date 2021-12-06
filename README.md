@@ -14,3 +14,10 @@ The application has feature to detect mood using video camera of your computer o
 
 
 **Images of Application **
+**image identifiation:**
+<img width="1431" alt="1" src="https://user-images.githubusercontent.com/65660680/144899664-7665abf9-8eba-4a1a-adf3-7ea13d4aa44d.png">
+
+**face mood detection:**
+<img width="1440" alt="2" src="https://user-images.githubusercontent.com/65660680/144899688-ba671091-8ead-46a5-a16a-375b656bf69c.png">
+
+<img width="1440" alt="3" src="https://user-images.githubusercontent.com/65660680/144899693-7629ebf9-51f3-4f12-8808-4faee0074e9f.png">
