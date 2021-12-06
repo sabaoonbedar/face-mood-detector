@@ -1,4 +1,4 @@
-# image identifier and mood detection using models and javascript api
+# image identifier and mood detection using javascript and various models
 
 The application has feature to detect mood using video camera of your computer or laptop. It has the feature to identify people from an image, this is possible when the model is trained for specific person image. I trained the model on my image.
 
