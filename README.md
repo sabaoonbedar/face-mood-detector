@@ -8,9 +8,10 @@ The application has feature to detect mood using video camera of your computer o
 1. First download visual studio.
 2. Get a clone of this project.
 3. After downloading visual studio, go to the extention menu of your visual studio code editor and search for live server add it to your vscode. After adding, take your folder and drag it on the vscode icon, so the project will get open in vs code or simply click on file on the above menu and click on open folder then open the project folder you cloned from here.
-4. Click on the file called index.html and right click on the code area of code editor, you will see different options, click on 'open with live server', boom! you are done. For details of live server https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+4. Click on the file called "index.html" and right click on the code area of code editor, you will see different options, click on 'open with live server', boom! you are done. For details of live server https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
                                                                         
-
+**note:** for switch button, you can change the link according to the live server link that it is providing then you can switch between both functionalities.
+it is giving me port http://127.0.0.1:5500/index.html or might be your get change so try that one in the anchor tags of both html files.
 
 
 **Images of Application **
