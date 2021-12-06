@@ -18,6 +18,7 @@ The application has feature to detect mood using video camera of your computer o
 **image identifiation:**
 <img width="1431" alt="1" src="https://user-images.githubusercontent.com/65660680/144899664-7665abf9-8eba-4a1a-adf3-7ea13d4aa44d.png">
 
+<img width="1402" alt="Screenshot 2021-12-06 at 11 21 48 PM" src="https://user-images.githubusercontent.com/65660680/144900807-f72d3638-05db-4b43-b918-f6a834bfddbc.png">
 **Mood detection:**
 <img width="1440" alt="2" src="https://user-images.githubusercontent.com/65660680/144899688-ba671091-8ead-46a5-a16a-375b656bf69c.png">
 
